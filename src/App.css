@@ -6,18 +6,23 @@
 }
 
 footer {
-  background-color: #a48c8c;
+  background-color: #f0e9e6;
+}
+
+.list-group-item {
+  font-family: "Crimson Pro", cursive;
+  font-size: 20px;
 }
 
 h4 {
   font-family: "Sacramento", cursive;
-  font-size: 30px;
+  font-size: 35px;
   color: #693131;
 }
 
 h3 {
   font-family: "Sacramento", cursive;
-  font-size: 50px;
+  font-size: 55px;
   font-weight: bolder;
   color: #43182f;
 
@@ -25,6 +30,7 @@ h3 {
 
 p {
   font-family: "Crimson Pro", cursive;
+  font-size: 20px;
 }
 
 .navbar-nav .nav-item .nav-link:after{

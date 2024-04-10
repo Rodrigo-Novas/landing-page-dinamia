@@ -4,6 +4,7 @@ import { CiInstagram } from "react-icons/ci";
 import { FaWhatsapp } from "react-icons/fa";
 import { CiLinkedin } from "react-icons/ci";
 import { CgMail } from "react-icons/cg";
+import { CiCalendar } from "react-icons/ci";
 
 export const Footer = () => {
     return(  
@@ -16,8 +17,9 @@ export const Footer = () => {
                             <IconContext.Provider value={{color: '#693131', size: 42}}>
                                 <HashLink to="https://www.instagram.com/dinamia_" target='_blank'><CiInstagram className="mx-2"/></HashLink>
                                 <HashLink to="https://www.linkedin.com/in/gabriela-a-hidalgo" target='_blank'><CiLinkedin className="mx-2"/></HashLink>
-                                <HashLink to="https://api.whatsapp.com/send?phone=+5491166480421" target='_blank'><FaWhatsapp className="mx-2"/></HashLink>
-                                <HashLink to="mailto:gah.asesoria@gmail.com"><CgMail className="mx-2"/></HashLink>
+                                <HashLink to="https://api.whatsapp.com/send?phone=5491166480421" target='_blank'><FaWhatsapp className="mx-2"/></HashLink>
+                                <HashLink to="mailto:gah.asesoria@gmail.com" target='_blank'><CgMail className="mx-2"/></HashLink>
+                                <HashLink to="https://calendly.com/gah-asesoria/30min" target='_blank'><CiCalendar className="mx-2"/></HashLink>
                             </IconContext.Provider>
                             </div>
                         </div>
