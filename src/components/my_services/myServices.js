@@ -1,11 +1,12 @@
 export const MyServices = () => {
-    return(  
+
+    return(
         <div>
             <h3 id="my-services" className="mb-5">Mis servicios</h3>
             <h4 id="portuguese-foreigners">Portugues para extranjeros</h4>
             <p className="mx-4 my-4 mb-5">
-                Desde el portugués de negocios hasta el que estás necesitando para viajar. Aprenderás más que el idioma; explorarásla riqueza 
-                cultural de los países de habla portuguesa mientras desarrollas habilidades comunicativas clave que te 
+                Desde el portugués de negocios hasta el que estás necesitando para viajar. Aprenderás más que el idioma; explorarásla riqueza
+                cultural de los países de habla portuguesa mientras desarrollas habilidades comunicativas clave que te
                 permitirán comunicarte con confianza y fluidez. Cursos especializados que se adaptan a tus objetivos y horarios.
             </p>
             <ul class="list-group list-group-flush mb-5">
@@ -15,7 +16,6 @@ export const MyServices = () => {
                 <li class="list-group-item">Portugués para viajes</li>
                 <li class="list-group-item">Talleres de conversación para niveles intermedios y avanzados</li>
             </ul>
-
             <h4 id="spanish-foreigners" >Español para extranjeros</h4>
             <p className="mx-4 my-4 mb-5">
                 Cursos diseñados para satisfacer tus necesidades y objetivos específicos. Adquiere las habilidadeslingüísticas y culturales necesarias para viajar, adaptarte y prosperar
@@ -46,7 +46,7 @@ export const MyServices = () => {
             <ul class="list-group list-group-flush mb-5">
                 <li class="list-group-item">Programas personalizados en portugués y español para el abordaje con éxito de situaciones comunicativas específicas</li>
                 <li class="list-group-item"></li>
-            </ul>   
+            </ul>
             <h4 id="personal-image">Imagen personal</h4>
             <p className="mx-4 my-4 mb-5">
                 Aprende a proyectar una imagen profesional y segura que te permita destacar en cualquier entorno laboral.

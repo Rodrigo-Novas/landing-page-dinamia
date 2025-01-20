@@ -5,11 +5,11 @@ import logo from '../../assets/logo.png';
 
 
 export const Navbar = () => {
-    return(  
-        
+    return(
+
         <nav id="navbar-main" className="navbar navbar-expand-lg sticky-top">
         <div className="container-fluid">
-              <HashLink className="navbar-brand mx-3" to="/">
+              <HashLink className="navbar-brand mx-3" to="#">
                 <img src={logo} alt="dinamia-logo" width="50" height="50" className="d-inline-block align-text-top"/>
               </HashLink>
               <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -21,10 +21,10 @@ export const Navbar = () => {
                             <HashLink className="nav-link" to="#about-dinamia">Dinamia</HashLink>
                         </li>
                         <li className="nav-item">
-                            <HashLink className="nav-link" to="#about-me">Mi historia</HashLink>
+                            <HashLink className="nav-link" to="#about-me">Sobre mi</HashLink>
                         </li>
                         <li>
-                            <DropdownButton id="dropdown-main" href="#" title="Mis servicios">
+                            <DropdownButton id="dropdown-main" title="Mis servicios">
                                 <Dropdown.Item  href="#portuguese-foreigners">Portugues para extranjeros</Dropdown.Item>
                                 <Dropdown.Item href="#spanish-foreigners">Español para extranjeros</Dropdown.Item>
                                 <Dropdown.Item href="#cultural-inteligence">Inteligencia cultural</Dropdown.Item>
