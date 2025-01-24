@@ -21,12 +21,11 @@ export const Navbar = () => {
                             <HashLink className="nav-link" to="#about-dinamia">Dinamia</HashLink>
                         </li>
                         <li className="nav-item">
-                            <HashLink className="nav-link" to="#about-me">Sobre mi</HashLink>
+                            <HashLink className="nav-link" to="#about-me">Nuestra mision</HashLink>
                         </li>
                         <li>
                             <DropdownButton id="dropdown-main" title="Mis servicios">
-                                <Dropdown.Item  href="#portuguese-foreigners">Portugues para extranjeros</Dropdown.Item>
-                                <Dropdown.Item href="#spanish-foreigners">Español para extranjeros</Dropdown.Item>
+                                <Dropdown.Item href="#my-services">Servicios</Dropdown.Item>
                                 <Dropdown.Item href="#cultural-inteligence">Inteligencia cultural</Dropdown.Item>
                                 <Dropdown.Item href="#communicative-training">Entrenamiento comunicativo</Dropdown.Item>
                                 <Dropdown.Item href="#personal-image">Imagen personal</Dropdown.Item>

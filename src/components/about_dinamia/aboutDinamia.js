@@ -2,7 +2,8 @@
 export const AboutDinamia = () => {
     return(
         <div>
-            <h3 id="about-dinamia">Dinamia Comunicación Profesional</h3>
+            <h3 id="about-dinamia" className="mb-5">Dinamia Comunicación Profesional</h3>
+
             <p>
                 Transformamos la manera en que las personas se conectan, no sólo a través de palabras,
 

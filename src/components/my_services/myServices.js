@@ -21,8 +21,8 @@ export const MyServices = () => {
             </ul>
             <h4 id="cultural-inteligence">Inteligencia cultural</h4>
             <p className="mx-4 my-4 mb-5">
-                Talleres que mejoran la comunicación, la colaboración y la producción en equipos multiculturales.Ayudan a la comprensión, la adaptabilidad y toma de conciencia en
-                entornos diversos.Dirigidos a líderes de equipos, gerentes de proyectos, miembros de equiposinternacionales y cualquier persona que trabaje en un entorno multicultural.
+                Talleres que mejoran la comunicación, la colaboración y la producción en equipos multiculturales. Ayudan a la comprensión, la adaptabilidad y toma de conciencia en
+                entornos diversos. Dirigidos a líderes de equipos, gerentes de proyectos, miembros de equipos internacionales y cualquier persona que trabaje en un entorno multicultural.
             </p>
             <ul class="list-group list-group-flush mb-5">
                 <li class="list-group-item">Talleres de inteligencia cultural en línea</li>

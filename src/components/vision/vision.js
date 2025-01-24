@@ -3,7 +3,6 @@ export const Vision = () => {
     return(
         <div>
             <h3 id="vision" className="mb-5">Nuestra visión</h3>
-            <h4 id="portuguese-foreigners">Portugues para extranjeros</h4>
             <p className="mx-4 my-4 mb-5">
                 Imaginamos un mundo en el que las barreras idiomáticas y culturales se conviertan en
                 puentes de conexión. Queremos ser reconocidos como una academia que no solo enseña
