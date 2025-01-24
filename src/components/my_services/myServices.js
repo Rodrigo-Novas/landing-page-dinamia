@@ -2,30 +2,20 @@ export const MyServices = () => {
 
     return(
         <div>
-            <h3 id="my-services" className="mb-5">Mis servicios</h3>
-            <h4 id="portuguese-foreigners">Portugues para extranjeros</h4>
+            <h3 id="my-services" className="mb-5">Servicios</h3>
             <p className="mx-4 my-4 mb-5">
-                Desde el portugués de negocios hasta el que estás necesitando para viajar. Aprenderás más que el idioma; explorarásla riqueza
-                cultural de los países de habla portuguesa mientras desarrollas habilidades comunicativas clave que te
-                permitirán comunicarte con confianza y fluidez. Cursos especializados que se adaptan a tus objetivos y horarios.
+                Formación comunicativa en italiano, inglés y francés:
+                Desarrolla competenciaslingüísticas en italiano, inglés y francés mediante un
+                enfoque cultural y comunicativo. Diseñamos clases a medida , enfocándonos en la
+                fluidez, la precisión y la comprensión intercultural. Nuestros programas están
+                orientados a situacionesreales y necesidades profesionales, integrando la cultura
+
+                de cada idioma para lograr una comunicación efectiva y auténtica.
             </p>
             <ul class="list-group list-group-flush mb-5">
                 <li class="list-group-item">Cursos regulares para todos los niveles</li>
-                <li class="list-group-item">Programa de portugués para los negocios</li>
-                <li class="list-group-item">Portugués y cultura</li>
-                <li class="list-group-item">Portugués para viajes</li>
-                <li class="list-group-item">Talleres de conversación para niveles intermedios y avanzados</li>
-            </ul>
-            <h4 id="spanish-foreigners" >Español para extranjeros</h4>
-            <p className="mx-4 my-4 mb-5">
-                Cursos diseñados para satisfacer tus necesidades y objetivos específicos. Adquiere las habilidadeslingüísticas y culturales necesarias para viajar, adaptarte y prosperar
-                en un nuevo entorno hispanohablante. Domina el español empresarial y amplía tus oportunidadeslaborales en el mercado internacional.
-            </p>
-            <ul class="list-group list-group-flush mb-5">
-                <li class="list-group-item">Cursos regulares para todos los niveles</li>
-                <li class="list-group-item">Programa de español para los negocios español y cultura</li>
-                <li class="list-group-item">Taller: el español y la variante rioplatense</li>
-                <li class="list-group-item">Español para viajes</li>
+                <li class="list-group-item">Programa de idiomas para los negocios y cultura</li>
+                <li class="list-group-item">Idiomas para viajes</li>
                 <li class="list-group-item">Talleres de formación para formadores</li>
                 <li class="list-group-item">Talleres de conversación para niveles intermedios y avanzados</li>
             </ul>

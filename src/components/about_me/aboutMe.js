@@ -1,20 +1,23 @@
 
-import welcome  from  '../../assets/gabriela-welcome.png';
+import welcome  from  '../../assets/dinamia.png';
 
 export const AboutMe = () => {
-    return(  
+    return(
         <div>
-            <h3 id="about-me">Sobre mi</h3>
+            <h3 id="about-me">Nuestra Misión</h3>
             <div className="row py-5">
                 <div className="col-5 col-sm-10 col-md-5 col-lg-5">
                     <img src={welcome} className="rounded-circle mx-auto d-block mb-3" alt="welcome"></img>
                 </div>
-                <div className="col-sm-10 col-md-5 col-lg-5">
+                <div className="col-sm-10 col-md-5 col-lg-5 my-5">
                     <p className='py-5'>
-                        Soy Gabriela Hidalgo y desde Dinamia te acompaño para que potencies y hagas crecer tu comunicación en Español y en Portugués.
-                        Como docente y facilitadora, mi pasión radica en compartir el fascinante mundo
-                        de los idiomas y las culturas, brindando las herramientas necesarias para explorar, comunicarse y comprender las sutilezas culturales que nos hacen diferentes. 
-                        Quiero despertar la curiosidad y el entusiasmo en este viaje donde cada encuentro es una oportunidad para crecer, aprender, descubrir y conectar con los otros de una manera completamente nueva."
+                        Ofrecer cursos que trascienden el aprendizaje técnico de idiomas. Portugués,
+                        español, inglés e italiano no son solo herramientas de comunicación; son puertas de
+                        entrada a culturas ricas y diversas que merecen ser exploradas y comprendidas.
+                        Además, entendemos que el idioma es solo una parte del éxito profesional. Por eso
+                        ofrecemos talleres de Inteligencia Cultural, diseñados para ayudar a nuestros
+                        estudiantes a adaptarse a entornos multiculturales con confianza y empatía. También desarrollamos cursos enfocados en mejorar las habilidades personales y
+                        profesionales, esenciales en un mundo laboral competitivo.
                     </p>
                 </div>
             </div>
