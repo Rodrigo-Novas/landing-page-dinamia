@@ -30,7 +30,7 @@ export const MyServices = () => {
             </ul>
             <h4 id="communicative-training">Entrenamiento comunicativo</h4>
             <p className="mx-4 my-4 mb-5">
-                Desarrolla las habilidadeslingüísticas y culturales necesarias para sobresalir en reuniones, negociaciones, presentaciones, eventossociales y más. Desarrolla una
+                Desarrolla las habilidades lingüísticas y culturales necesarias para sobresalir en reuniones, negociaciones, presentaciones, eventossociales y más. Desarrolla una
                 comunicación profesional y acogedora para recibir a clientes y socios comerciales en portugués, creando una impresión positiva desde el primer momento.
             </p>
             <ul class="list-group list-group-flush mb-5">

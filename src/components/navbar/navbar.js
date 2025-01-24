@@ -21,7 +21,7 @@ export const Navbar = () => {
                             <HashLink className="nav-link" to="#about-dinamia">Dinamia</HashLink>
                         </li>
                         <li className="nav-item">
-                            <HashLink className="nav-link" to="#about-me">Nuestra mision</HashLink>
+                            <HashLink className="nav-link" to="#about-me">Nuestra misión</HashLink>
                         </li>
                         <li>
                             <DropdownButton id="dropdown-main" title="Mis servicios">
