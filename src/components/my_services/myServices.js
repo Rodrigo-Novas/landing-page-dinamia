@@ -3,14 +3,15 @@ export const MyServices = () => {
     return(
         <div>
             <h3 id="my-services" className="mb-5">Servicios</h3>
-            <p className="mx-4 my-4 mb-5">
-                Formación comunicativa en italiano, inglés y francés:
-                Desarrolla competenciaslingüísticas en italiano, inglés y francés mediante un
-                enfoque cultural y comunicativo. Diseñamos clases a medida , enfocándonos en la
-                fluidez, la precisión y la comprensión intercultural. Nuestros programas están
-                orientados a situacionesreales y necesidades profesionales, integrando la cultura
 
-                de cada idioma para lograr una comunicación efectiva y auténtica.
+            <h4 id="language-formation">Formación en idiomas</h4>
+
+            <p className="mx-4 my-4">
+                Desarrolla competencias lingüísticas en español, portugués, italiano, inglés y francés mediante un enfoque cultural y comunicativo.
+                Diseñamos clases a medida, enfocándonos en la fluidez, la precisión y la comprensión intercultural.
+            </p>
+            <p className="mx-4 mb-5">
+                Nuestros programas están orientados a situacionesreales y necesidades profesionales, integrando la cultura de cada idioma para lograr una comunicación efectiva y auténtica.
             </p>
             <ul class="list-group list-group-flush mb-5">
                 <li class="list-group-item">Cursos regulares para todos los niveles</li>
@@ -40,7 +41,7 @@ export const MyServices = () => {
             <h4 id="personal-image">Imagen personal</h4>
             <p className="mx-4 my-4 mb-5">
                 Aprende a proyectar una imagen profesional y segura que te permita destacar en cualquier entorno laboral.
-                Este curso te ofrece las herramientas necesarias para mejorar comunicación no verbal en el ámbito profesional. Aprende a comunicarte con confianza y asertividad para construir relacionessólidas y duraderas.
+                Este curso te ofrece las herramientas necesarias para mejorar comunicación no verbal en el ámbito profesional. Aprende a comunicarte con confianza y asertividad para construir relaciones sólidas y duraderas.
             </p>
             <ul class="list-group list-group-flush mb-5">
                 <li class="list-group-item">Análisis de imagen</li>

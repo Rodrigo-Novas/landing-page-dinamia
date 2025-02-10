@@ -7,7 +7,6 @@ import { Footer } from "./components/footer/footer";
 import { AboutDinamia } from "./components/about_dinamia/aboutDinamia";
 import { Vision } from "./components/vision/vision";
 import { MyServices } from "./components/my_services/myServices";
-// import { Contact } from "./components/contact/contact";
 import { ArrowTop } from "./components/arrow_to_top/arrowTop"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js';

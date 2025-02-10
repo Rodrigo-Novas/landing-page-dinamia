@@ -23,17 +23,17 @@ export const Navbar = () => {
                         <li className="nav-item">
                             <HashLink className="nav-link" to="#about-me">Nuestra misión</HashLink>
                         </li>
+                        <li className="nav-item">
+                            <HashLink className="nav-link" to="#vision">Nuestra visión</HashLink>
+                        </li>
                         <li>
-                            <DropdownButton id="dropdown-main" title="Mis servicios">
-                                <Dropdown.Item href="#my-services">Servicios</Dropdown.Item>
+                            <DropdownButton id="dropdown-main" title="Servicios">
+                                <Dropdown.Item href="#my-services">Formación en idiomas</Dropdown.Item>
                                 <Dropdown.Item href="#cultural-inteligence">Inteligencia cultural</Dropdown.Item>
                                 <Dropdown.Item href="#communicative-training">Entrenamiento comunicativo</Dropdown.Item>
                                 <Dropdown.Item href="#personal-image">Imagen personal</Dropdown.Item>
                             </DropdownButton>
                         </li>
-                        {/* <li className="nav-item">
-                            <HashLink className="nav-link" to="#contact">Contacto</HashLink>
-                        </li> */}
                     </ul>
                 </div>
             </div>
